@@ -2,7 +2,7 @@
 * Student ID : 1690703614
 * Name       : Thadpong Thuedam
 * Section    : 129B
-* No.        : 367
+* No.        : 36
 * Course     : GI113 Computer Programming (GI)
 */
 
